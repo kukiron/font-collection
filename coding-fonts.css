@@ -1,0 +1,127 @@
+/* FONT FACE */
+@font-face {
+  font-family: 'anonymous-pro';
+  src: url('fonts/anonymous-pro.eot');
+  src: url('fonts/anonymous-pro.eot?#iefix') format('embedded-opentype'),
+    url('fonts/anonymous-pro.woff') format('woff'),
+    url('fonts/anonymous-pro.ttf') format('truetype'),
+    url('fonts/anonymous-pro.svg') format('svg');
+}
+@font-face {
+  font-family: 'cousine';
+  src: url('fonts/cousine-regular.eot');
+  src: url('fonts/cousine-regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/cousine-regular.woff') format('woff'),
+    url('fonts/cousine-regular.ttf') format('truetype'),
+    url('fonts/cousine-regular.svg') format('svg');
+}
+@font-face {
+  font-family: 'dejavu-sans-mono';
+  src: url('fonts/deja-vu-sans-mono.eot');
+  src: url('fonts/deja-vu-sans-mono.eot?#iefix') format('embedded-opentype'),
+    url('fonts/deja-vu-sans-mono.woff') format('woff'),
+    url('fonts/deja-vu-sans-mono.ttf') format('truetype'),
+    url('fonts/deja-vu-sans-mono.svg') format('svg');
+}
+@font-face {
+  font-family: 'droid-sans-mono';
+  src: url('fonts/droid-sans-mono.eot');
+  src: url('fonts/droid-sans-mono.eot?#iefix') format('embedded-opentype'),
+    url('fonts/droid-sans-mono.woff') format('woff'),
+    url('fonts/droid-sans-mono.ttf') format('truetype'),
+    url('fonts/droid-sans-mono.svg') format('svg');
+}
+@font-face {
+  font-family: 'fira-mono';
+  src: url('fonts/fira-mono-regular.eot');
+  src: url('fonts/fira-mono-regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/fira-mono-regular.woff') format('woff'),
+    url('fonts/fira-mono-regular.ttf') format('truetype'),
+    url('fonts/fira-mono-regular.svg') format('svg');
+}
+@font-face {
+    font-family: 'hermit';
+    src: url('fonts/hermit-medium-ont.eot');
+    src: url('fonts/hermit-medium-ont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/hermit-medium-ont.woff') format('woff'),
+         url('fonts/hermit-medium-ont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+  font-family: 'inconsolata';
+  src: url('fonts/inconsolata.eot');
+  src: url('fonts/inconsolata.eot?#iefix') format('embedded-opentype'),
+    url('fonts/inconsolata.woff') format('woff'),
+    url('fonts/inconsolata.ttf') format('truetype'),
+    url('fonts/inconsolata.svg') format('svg');
+}
+@font-face {
+  font-family: 'oxygen-mono';
+  src: url('fonts/oxygen-mono-regular.eot');
+  src: url('fonts/oxygen-mono-regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/oxygen-mono-regular.woff') format('woff'),
+    url('fonts/oxygen-mono-regular.ttf') format('truetype'),
+    url('fonts/oxygen-mono-regular.svg') format('svg');
+}
+@font-face {
+  font-family: 'pt-mono';
+  src: url('fonts/pt-mono-regular.eot');
+  src: url('fonts/pt-mono-regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/pt-mono-regular.woff') format('woff'),
+    url('fonts/pt-mono-regular.ttf') format('truetype'),
+    url('fonts/pt-mono-regular.svg') format('svg');
+}
+@font-face {
+  font-family: 'source-code-pro';
+  src: url('fonts/source-code-pro-regular.eot');
+  src: url('fonts/source-code-pro-regular.eot?#iefix') format('embedded-opentype'),
+    url('fonts/source-code-pro-regular.woff') format('woff'),
+    url('fonts/source-code-pro-regular.ttf') format('truetype'),
+    url('fonts/source-code-pro-regular.svg') format('svg');
+}
+@font-face {
+    font-family: 'luculent';
+    src: url('fonts/luculent.eot');
+    src: url('fonts/luculent.eot?#iefix') format('embedded-opentype'),
+         url('fonts/luculent.woff') format('woff'),
+         url('fonts/luculent.ttf') format('truetype'),
+         url('fonts/luculent.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+  font-family: 'mplus-1mn-regular';
+  src: url('fonts/mplus-1mn-regular.eot?#iefix') format('embedded-opentype'),
+       url('fonts/mplus-1mn-regular.woff') format('woff'),
+       url('fonts/mplus-1mn-regular.ttf')  format('truetype'),
+       url('fonts/mplus-1mn-regular.svg') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+    font-family: 'ubuntu-mono';
+    src: url('fonts/ubuntu-mono.eot');
+    src: url('fonts/ubuntu-mono.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ubuntu-mono.woff') format('woff'),
+         url('fonts/ubuntu-mono.ttf') format('truetype'),
+         url('fonts/ubuntu-mono.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* FONT CLASSES */
+.font-anonymous-pro     { font-family: 'anonymous-pro'; }
+.font-cousine           { font-family: 'cousine'; }
+.font-dejavu-sans-mono  { font-family: 'dejavu-sans-mono'; }
+.font-droid-sans-mono   { font-family: 'droid-sans-mono'; }
+.font-fira-mono         { font-family: 'fira-mono'; }
+.font-hermit            { font-family: 'hermit'; }
+.font-inconsolata       { font-family: 'inconsolata'; }
+.font-oxygen-mono       { font-family: 'oxygen-mono'; }
+.font-pt-mono           { font-family: 'pt-mono'; }
+.font-source-code-pro   { font-family: 'source-code-pro'; }
+.font-luculent          { font-family: 'luculent'; }
+.font-mplus-1mn-regular  { font-family: 'mplus-1mn-regular'; }
+.font-ubuntu-mono       { font-family: 'ubuntu-mono'; }
